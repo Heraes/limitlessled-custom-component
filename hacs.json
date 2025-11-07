@@ -1,0 +1,7 @@
+{
+  "name": "LimitlessLED",
+  "content_in_root": false,
+  "homeassistant": "2025.11.0",
+  "country": "all",
+  "render_readme": false
+}
