@@ -5,6 +5,10 @@
 
 Custom implementation of LimitlessLED integration for Home Assistant with enhanced features.
 
+## HACS integration
+
+This is a custom repository, based on markovrv's repository to make it works through HACS installation
+
 ## Features
 
 - Custom unique ID assignment via YAML configuration
